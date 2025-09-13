@@ -694,7 +694,7 @@ msgid "Test patterns..."
 msgstr ""
 
 msgctxt "#227"
-msgid "Lookup audio CD track names from freedb.org"
+msgid "Lookup audio CD track names from gnudb.org"
 msgstr ""
 
 msgctxt "#228"

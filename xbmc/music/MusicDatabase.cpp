@@ -2305,7 +2305,7 @@ bool CMusicDatabase::LookupCDDBInfo(bool bRequery/*=false*/)
     if (!pDialogProgress) return false;
     if (!pDlgSelect) return false;
 
-    // Show progress dialog if we have to connect to freedb.org
+    // Show progress dialog if we have to connect to gnudb.org
     pDialogProgress->SetHeading(255); //CDDB
     pDialogProgress->SetLine(0, ""); // Querying freedb for CDDB info
     pDialogProgress->SetLine(1, 256);

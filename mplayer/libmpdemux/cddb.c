@@ -39,7 +39,7 @@
 #include "stream.h"
 #include "network.h"
 
-#define DEFAULT_FREEDB_SERVER	"freedb.freedb.org"
+#define DEFAULT_FREEDB_SERVER	"gnudb.gnudb.org"
 #define DEFAULT_CACHE_DIR	"/.cddb/"
 
 stream_t* open_cdda(char *dev, char *track);
@@ -561,7 +561,7 @@ cddb_create_hello(cddb_data_t *cddb_data) {
 	char *user_name;
 	
 	if( cddb_data->anonymous ) {	// Default is anonymous
-		/* Note from Eduardo Pérez Ureta <eperez@it.uc3m.es> : 
+		/* Note from Eduardo Pï¿½rez Ureta <eperez@it.uc3m.es> : 
 		 * We don't send current user/host name in hello to prevent spam.
 		 * Software that sends this is considered spyware
 		 * that most people don't like.

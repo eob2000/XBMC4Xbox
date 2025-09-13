@@ -666,8 +666,8 @@ msgid "Test patterns..."
 msgstr "Immagine di prova"
 
 msgctxt "#227"
-msgid "Lookup audio CD track names from freedb.org"
-msgstr "Cerca i nomi delle tracce audio su freedb.org"
+msgid "Lookup audio CD track names from gnudb.org"
+msgstr "Cerca i nomi delle tracce audio su gnudb.org"
 
 msgctxt "#228"
 msgid "Shuffle playlist on load"

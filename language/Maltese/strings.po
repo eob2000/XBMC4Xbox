@@ -594,7 +594,7 @@ msgid "Speed"
 msgstr "Veloċita'"
 
 msgctxt "#227"
-msgid "Lookup audio CD track names from freedb.org"
+msgid "Lookup audio CD track names from gnudb.org"
 msgstr "Uza CDDB"
 
 msgctxt "#228"

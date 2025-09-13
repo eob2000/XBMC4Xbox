@@ -662,7 +662,7 @@ msgid "Test patterns..."
 msgstr "Testikuviot..."
 
 msgctxt "#227"
-msgid "Lookup audio CD track names from freedb.org"
+msgid "Lookup audio CD track names from gnudb.org"
 msgstr "Hae ääni-CD-levyn kappaletiedot internetistä"
 
 msgctxt "#228"
